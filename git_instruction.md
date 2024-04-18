@@ -39,12 +39,12 @@ git branch
 
 Создание новой ветки
 ```sh
-git brance <имя_новой_ветки>
+git branch <branch_name>
 ```
 
 Удаление ветки
 ```sh
-git branch -d <имя_ветки>
+git branch -d <branch_name>
 ```
 
 Пробую создать конфликт.
