@@ -29,7 +29,7 @@ git log --oneline
 ```
 И последняя команда на сегодня:
 ```sh
-git checkout 
+git checkout <имя ветки>
 ```
 
 С ее помощью мы можем перейти к нужной нам версии файла. 
@@ -40,3 +40,4 @@ git checkout
 ```sh
 git branch
 ```
+
