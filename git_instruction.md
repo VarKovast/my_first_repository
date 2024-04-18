@@ -9,4 +9,12 @@ git init
 ```sh
 git add
 ```
-позволянт **добавить файл в репозиторий**.
+позволяет **добавить файл в репозиторий**.
+
+```sh
+git commit -m "Message"
+```
+
+git log
+git log --oneline
+git checkout
