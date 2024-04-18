@@ -10,3 +10,7 @@ cd c:\folder_name
 dir
 ```
 
+Удаление файла
+```sh
+del <filename>
+```
